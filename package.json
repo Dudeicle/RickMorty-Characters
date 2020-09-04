@@ -1,0 +1,28 @@
+{
+  "name": "RickMorty-Characters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dudeicle/RickMorty-Characters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dudeicle/RickMorty-Characters/issues"
+  },
+  "homepage": "https://github.com/Dudeicle/RickMorty-Characters#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3"
+  }
+}
